@@ -19,7 +19,13 @@ Enhancement of the Ethiopian-Text-Data-Cleaner with cloud-based machine learning
 - Pandas, Scikit-learn  
 - Ethiopian-Text-Data-Cleaner integration
 
+## Screenshot / Demo
+![Cloud ML Pipeline](screenshots/cloud_ml_preview.png)  
+
 ## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Cloud-ML-Enhancement.git
+```bash
+# Clone the repository
+git clone https://github.com/Tsion-W/Cloud-ML-Enhancement.git
+# Install dependencies
+pip install -r requirements.txt
+# Configure cloud credentials and run pipelines
