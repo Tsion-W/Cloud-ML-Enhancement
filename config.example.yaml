@@ -1,0 +1,10 @@
+cloud:
+  provider: aws    # one of: aws | gcp | azure
+  # AWS
+  bucket: your-s3-bucket-name
+  prefix: cloud-ml-enhancement
+  # GCP
+  # bucket: your-gcs-bucket
+  # Azure
+  # connection_string: "DefaultEndpointsProtocol=...;AccountName=...;AccountKey=..."
+  # container: your-container
